@@ -1,4 +1,5 @@
 # Amplify App
+![Logo](logo.png)
 
 This project demonstrates deploying a simple application using AWS Amplify and Terraform. The goal is to showcase how to set up and manage an AWS Amplify app with infrastructure as code.
 
